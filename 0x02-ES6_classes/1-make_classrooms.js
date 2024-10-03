@@ -7,4 +7,3 @@ function initializeRooms() {
     new Classroom(34),
   ];
 }
-
